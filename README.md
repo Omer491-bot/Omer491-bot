@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java script
 - 💞️ I’m looking to collaborate on problem solving project
-- 📫 How to reach me e-mail ;Oemersh491@gmail.com
+- 📫 How to reach me e-mail ;omersh491@gmail.com
   
 
 <!---
