@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omer</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate frontend developer </h3>
 
-- 🔭 I’m currently working on **blog website**
+- 🔭 I’m currently working on **React App Integration In Netsuite**
 
 - 🌱 I’m currently learning **MongoDB**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **omersh491@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AxY4i-9Yi5rtIsvSpYBCqqSlVuX9py2n/view?usp=sharing](https://drive.google.com/file/d/1AxY4i-9Yi5rtIsvSpYBCqqSlVuX9py2n/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1M9PSn1XJYUyxl6Hve4UhAHahnKd-crGk/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
