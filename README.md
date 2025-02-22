@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **React App Integration In Netsuite**
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **SuiteScript**
 
 - 👨‍💻 All of my projects are available at [https://omer491-bot.github.io](https://omer491-bot.github.io)
 
